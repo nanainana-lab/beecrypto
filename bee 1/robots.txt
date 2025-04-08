@@ -1,0 +1,8 @@
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+
+Sitemap: https://trigo-game.netlify.app/sitemap.xml
